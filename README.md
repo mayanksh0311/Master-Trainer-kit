@@ -27,4 +27,4 @@ The design utilizes a purely structural, multi-file hierarchy:
 5. Generate Bitstream and program your FPGA.
 
 ## Author
-*   **MAYANK SHARMA** - Electronics Engineering Undergraduate
+*   **MAYANK SHARMA**
